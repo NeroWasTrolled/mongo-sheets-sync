@@ -21,5 +21,5 @@
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Hablla-Reports-Sync.git
-cd Hablla-Reports-Sync
+git clone https://github.com/NeroWasTrolled/mongo-sheets-sync.git
+cd mongo-sheets-sync
