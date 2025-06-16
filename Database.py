@@ -12,12 +12,12 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 # === CONFIGURAÇÕES ===
 
-MONGO_URI = "mongodb+srv://manager-64a56365aaedd19fa72d2787:P8eUi16vSs0eeaRm@unicvcluster.mxp18.mongodb.net/ws-64a56365aaedd19fa72d2787?retryWrites=true&w=majority"
-DB_NAME = "ws-64a56365aaedd19fa72d2787"
-COLLECTION_NAME = "workspace-64a56365aaedd19fa72d2787-ead"
+MONGO_URI = ""
+DB_NAME = ""
+COLLECTION_NAME = ""
 
-GOOGLE_SHEETS_JSON = "credencial-google.json"
-GOOGLE_SHEETS_NOME = "Relatorio UniCV"
+GOOGLE_SHEETS_JSON = ""
+GOOGLE_SHEETS_NOME = ""
 
 INTERVALO_MINUTOS = 5
 CAMPO_CHAVE = "_id"
