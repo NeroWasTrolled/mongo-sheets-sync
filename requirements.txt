@@ -1,0 +1,4 @@
+pymongo
+gspread
+oauth2client
+python-dateutil
