@@ -1,0 +1,556 @@
+[2025-06-13 11:17:04] 🔄 Iniciando atualização...
+[2025-06-13 11:17:24] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-17-22.json
+[2025-06-13 11:17:24] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-17-24.csv
+[2025-06-13 11:17:26] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:20:27] 🔄 Iniciando atualização...
+[2025-06-13 11:20:44] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-20-42.json
+[2025-06-13 11:20:45] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-20-44.csv
+[2025-06-13 11:20:47] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:25:47] 🔄 Iniciando atualização...
+[2025-06-13 11:25:53] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-25-50.json
+[2025-06-13 11:25:53] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-25-53.csv
+[2025-06-13 11:25:55] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:27:50] 🔄 Iniciando atualização...
+[2025-06-13 11:27:56] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-27-53.json
+[2025-06-13 11:27:56] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-27-56.csv
+[2025-06-13 11:27:59] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:28:59] 🔄 Iniciando atualização...
+[2025-06-13 11:29:05] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-29-03.json
+[2025-06-13 11:29:05] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-29-05.csv
+[2025-06-13 11:29:08] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:34:08] 🔄 Iniciando atualização...
+[2025-06-13 11:34:13] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-34-11.json
+[2025-06-13 11:34:14] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-34-13.csv
+[2025-06-13 11:34:14] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-17-22.json
+[2025-06-13 11:34:14] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-17-24.csv
+[2025-06-13 11:34:16] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:39:16] 🔄 Iniciando atualização...
+[2025-06-13 11:39:22] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-39-19.json
+[2025-06-13 11:39:22] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-39-22.csv
+[2025-06-13 11:39:22] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-20-42.json
+[2025-06-13 11:39:22] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-20-44.csv
+[2025-06-13 11:39:24] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:44:24] 🔄 Iniciando atualização...
+[2025-06-13 11:44:30] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-44-27.json
+[2025-06-13 11:44:30] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-44-30.csv
+[2025-06-13 11:44:30] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-25-50.json
+[2025-06-13 11:44:30] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-25-53.csv
+[2025-06-13 11:44:32] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:49:32] 🔄 Iniciando atualização...
+[2025-06-13 11:49:38] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-49-36.json
+[2025-06-13 11:49:39] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-49-38.csv
+[2025-06-13 11:49:39] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-27-53.json
+[2025-06-13 11:49:39] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-27-56.csv
+[2025-06-13 11:49:41] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:54:41] 🔄 Iniciando atualização...
+[2025-06-13 11:54:47] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-54-44.json
+[2025-06-13 11:54:47] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-54-47.csv
+[2025-06-13 11:54:47] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-29-03.json
+[2025-06-13 11:54:47] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-29-05.csv
+[2025-06-13 11:54:49] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 11:59:49] 🔄 Iniciando atualização...
+[2025-06-13 11:59:55] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-59-53.json
+[2025-06-13 11:59:55] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-59-55.csv
+[2025-06-13 11:59:55] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-34-11.json
+[2025-06-13 11:59:56] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-34-13.csv
+[2025-06-13 11:59:58] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:04:58] 🔄 Iniciando atualização...
+[2025-06-13 12:05:05] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-05-02.json
+[2025-06-13 12:05:05] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-05-05.csv
+[2025-06-13 12:05:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-39-19.json
+[2025-06-13 12:05:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-39-22.csv
+[2025-06-13 12:05:07] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:10:07] 🔄 Iniciando atualização...
+[2025-06-13 12:10:13] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-10-11.json
+[2025-06-13 12:10:14] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-10-13.csv
+[2025-06-13 12:10:14] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-44-27.json
+[2025-06-13 12:10:14] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-44-30.csv
+[2025-06-13 12:10:15] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:15:16] 🔄 Iniciando atualização...
+[2025-06-13 12:15:23] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-15-20.json
+[2025-06-13 12:15:23] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-15-23.csv
+[2025-06-13 12:15:23] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-49-36.json
+[2025-06-13 12:15:23] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-49-38.csv
+[2025-06-13 12:15:25] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:20:25] 🔄 Iniciando atualização...
+[2025-06-13 12:20:31] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-20-28.json
+[2025-06-13 12:20:31] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-20-31.csv
+[2025-06-13 12:20:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-54-44.json
+[2025-06-13 12:20:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-54-47.csv
+[2025-06-13 12:20:33] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:25:33] 🔄 Iniciando atualização...
+[2025-06-13 12:25:39] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-25-36.json
+[2025-06-13 12:25:39] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-25-39.csv
+[2025-06-13 12:25:39] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-59-53.json
+[2025-06-13 12:25:39] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_11-59-55.csv
+[2025-06-13 12:25:41] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:30:41] 🔄 Iniciando atualização...
+[2025-06-13 12:30:47] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-30-45.json
+[2025-06-13 12:30:48] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-30-47.csv
+[2025-06-13 12:30:48] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-05-02.json
+[2025-06-13 12:30:48] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-05-05.csv
+[2025-06-13 12:30:50] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:35:50] 🔄 Iniciando atualização...
+[2025-06-13 12:35:56] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-35-53.json
+[2025-06-13 12:35:56] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-35-56.csv
+[2025-06-13 12:35:56] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-10-11.json
+[2025-06-13 12:35:56] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-10-13.csv
+[2025-06-13 12:35:58] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:40:58] 🔄 Iniciando atualização...
+[2025-06-13 12:41:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-41-02.json
+[2025-06-13 12:41:04] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-41-04.csv
+[2025-06-13 12:41:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-15-20.json
+[2025-06-13 12:41:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-15-23.csv
+[2025-06-13 12:41:06] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:46:06] 🔄 Iniciando atualização...
+[2025-06-13 12:46:12] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-10.json
+[2025-06-13 12:46:13] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-12.csv
+[2025-06-13 12:46:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-20-28.json
+[2025-06-13 12:46:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-20-31.csv
+[2025-06-13 12:46:15] 🟡 Nenhum novo registro encontrado.
+[2025-06-13 12:46:48] 🔄 Iniciando atualização...
+[2025-06-13 12:46:53] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-51.json
+[2025-06-13 12:46:54] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-53.csv
+[2025-06-13 12:46:54] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-25-36.json
+[2025-06-13 12:46:54] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-25-39.csv
+[2025-06-13 12:47:14] ✅ 14257 novos registros adicionados.
+[2025-06-13 12:48:58] 🔄 Iniciando atualização...
+[2025-06-13 12:49:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-49-02.json
+[2025-06-13 12:49:05] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-49-04.csv
+[2025-06-13 12:49:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-30-45.json
+[2025-06-13 12:49:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-30-47.csv
+[2025-06-13 12:49:09] 📌 Cabeçalhos atualizados na planilha.
+[2025-06-13 12:49:24] ✅ 14258 novos registros adicionados.
+[2025-06-13 12:54:24] 🔄 Iniciando atualização...
+[2025-06-13 12:54:30] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-54-28.json
+[2025-06-13 12:54:31] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-54-30.csv
+[2025-06-13 12:54:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-35-53.json
+[2025-06-13 12:54:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-35-56.csv
+[2025-06-13 12:54:39] ✅ 6 novos registros adicionados.
+[2025-06-13 12:59:39] 🔄 Iniciando atualização...
+[2025-06-13 12:59:46] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-59-43.json
+[2025-06-13 12:59:46] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-59-46.csv
+[2025-06-13 12:59:46] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-41-02.json
+[2025-06-13 12:59:46] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-41-04.csv
+[2025-06-13 12:59:55] ✅ 8 novos registros adicionados.
+[2025-06-13 13:04:55] 🔄 Iniciando atualização...
+[2025-06-13 13:05:01] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-04-58.json
+[2025-06-13 13:05:01] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-05-01.csv
+[2025-06-13 13:05:01] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-10.json
+[2025-06-13 13:05:01] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-12.csv
+[2025-06-13 13:05:10] ✅ 3 novos registros adicionados.
+[2025-06-13 13:10:10] 🔄 Iniciando atualização...
+[2025-06-13 13:10:16] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-10-13.json
+[2025-06-13 13:10:16] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-10-16.csv
+[2025-06-13 13:10:16] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-51.json
+[2025-06-13 13:10:16] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-46-53.csv
+[2025-06-13 13:10:27] ✅ 5 novos registros adicionados.
+[2025-06-13 13:15:27] 🔄 Iniciando atualização...
+[2025-06-13 13:15:33] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-15-30.json
+[2025-06-13 13:15:33] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-15-33.csv
+[2025-06-13 13:15:33] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-49-02.json
+[2025-06-13 13:15:33] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-49-04.csv
+[2025-06-13 13:15:42] ✅ 6 novos registros adicionados.
+[2025-06-13 13:20:42] 🔄 Iniciando atualização...
+[2025-06-13 13:20:48] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-20-45.json
+[2025-06-13 13:20:48] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-20-48.csv
+[2025-06-13 13:20:48] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-54-28.json
+[2025-06-13 13:20:48] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-54-30.csv
+[2025-06-13 13:20:57] ✅ 6 novos registros adicionados.
+[2025-06-13 13:25:57] 🔄 Iniciando atualização...
+[2025-06-13 13:26:03] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-26-01.json
+[2025-06-13 13:26:04] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-26-03.csv
+[2025-06-13 13:26:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-59-43.json
+[2025-06-13 13:26:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_12-59-46.csv
+[2025-06-13 13:26:13] ✅ 8 novos registros adicionados.
+[2025-06-13 13:31:13] 🔄 Iniciando atualização...
+[2025-06-13 13:31:19] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-31-16.json
+[2025-06-13 13:31:19] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-31-19.csv
+[2025-06-13 13:31:19] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-04-58.json
+[2025-06-13 13:31:19] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-05-01.csv
+[2025-06-13 13:31:29] ✅ 7 novos registros adicionados.
+[2025-06-13 13:36:29] 🔄 Iniciando atualização...
+[2025-06-13 13:36:35] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-36-32.json
+[2025-06-13 13:36:35] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-36-35.csv
+[2025-06-13 13:36:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-10-13.json
+[2025-06-13 13:36:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-10-16.csv
+[2025-06-13 13:36:44] ✅ 5 novos registros adicionados.
+[2025-06-13 13:41:44] 🔄 Iniciando atualização...
+[2025-06-13 13:41:52] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-41-49.json
+[2025-06-13 13:41:52] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-41-52.csv
+[2025-06-13 13:41:52] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-15-30.json
+[2025-06-13 13:41:52] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-15-33.csv
+[2025-06-13 13:42:01] ✅ 7 novos registros adicionados.
+[2025-06-13 13:47:01] 🔄 Iniciando atualização...
+[2025-06-13 13:47:07] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-47-04.json
+[2025-06-13 13:47:07] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-47-07.csv
+[2025-06-13 13:47:07] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-20-45.json
+[2025-06-13 13:47:07] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-20-48.csv
+[2025-06-13 13:47:17] ✅ 7 novos registros adicionados.
+[2025-06-13 13:52:17] 🔄 Iniciando atualização...
+[2025-06-13 13:52:23] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-52-20.json
+[2025-06-13 13:52:24] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-52-23.csv
+[2025-06-13 13:52:24] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-26-01.json
+[2025-06-13 13:52:24] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-26-03.csv
+[2025-06-13 13:52:31] ✅ 5 novos registros adicionados.
+[2025-06-13 13:57:31] 🔄 Iniciando atualização...
+[2025-06-13 13:57:37] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-57-35.json
+[2025-06-13 13:57:37] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-57-37.csv
+[2025-06-13 13:57:37] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-31-16.json
+[2025-06-13 13:57:37] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-31-19.csv
+[2025-06-13 13:57:47] ✅ 3 novos registros adicionados.
+[2025-06-13 14:02:47] 🔄 Iniciando atualização...
+[2025-06-13 14:02:54] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-02-51.json
+[2025-06-13 14:02:54] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-02-54.csv
+[2025-06-13 14:02:54] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-36-32.json
+[2025-06-13 14:02:54] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-36-35.csv
+[2025-06-13 14:03:03] ✅ 4 novos registros adicionados.
+[2025-06-13 14:08:03] 🔄 Iniciando atualização...
+[2025-06-13 14:08:09] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-08-06.json
+[2025-06-13 14:08:09] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-08-09.csv
+[2025-06-13 14:08:09] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-41-49.json
+[2025-06-13 14:08:09] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-41-52.csv
+[2025-06-13 14:08:20] ✅ 3 novos registros adicionados.
+[2025-06-13 14:13:20] 🔄 Iniciando atualização...
+[2025-06-13 14:13:52] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-13-50.json
+[2025-06-13 14:13:52] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-13-52.csv
+[2025-06-13 14:13:52] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-47-04.json
+[2025-06-13 14:13:52] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-47-07.csv
+[2025-06-13 14:14:02] ✅ 8 novos registros adicionados.
+[2025-06-13 14:19:02] 🔄 Iniciando atualização...
+[2025-06-13 14:19:08] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-19-06.json
+[2025-06-13 14:19:08] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-19-08.csv
+[2025-06-13 14:19:08] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-52-20.json
+[2025-06-13 14:19:08] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-52-23.csv
+[2025-06-13 14:19:17] ✅ 4 novos registros adicionados.
+[2025-06-13 14:24:17] 🔄 Iniciando atualização...
+[2025-06-13 14:24:23] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-24-21.json
+[2025-06-13 14:24:24] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-24-23.csv
+[2025-06-13 14:24:24] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-57-35.json
+[2025-06-13 14:24:24] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_13-57-37.csv
+[2025-06-13 14:24:34] ✅ 6 novos registros adicionados.
+[2025-06-13 14:29:34] 🔄 Iniciando atualização...
+[2025-06-13 14:29:40] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-29-37.json
+[2025-06-13 14:29:40] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-29-40.csv
+[2025-06-13 14:29:40] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-02-51.json
+[2025-06-13 14:29:40] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-02-54.csv
+[2025-06-13 14:29:49] ✅ 3 novos registros adicionados.
+[2025-06-13 14:34:49] 🔄 Iniciando atualização...
+[2025-06-13 14:34:57] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-34-54.json
+[2025-06-13 14:34:57] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-34-57.csv
+[2025-06-13 14:34:57] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-08-06.json
+[2025-06-13 14:34:57] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-08-09.csv
+[2025-06-13 14:35:06] ✅ 7 novos registros adicionados.
+[2025-06-13 14:40:06] 🔄 Iniciando atualização...
+[2025-06-13 14:40:12] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-40-09.json
+[2025-06-13 14:40:13] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-40-12.csv
+[2025-06-13 14:40:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-13-50.json
+[2025-06-13 14:40:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-13-52.csv
+[2025-06-13 14:40:22] ✅ 2 novos registros adicionados.
+[2025-06-13 14:45:22] 🔄 Iniciando atualização...
+[2025-06-13 14:45:31] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-45-28.json
+[2025-06-13 14:45:31] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-45-31.csv
+[2025-06-13 14:45:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-19-06.json
+[2025-06-13 14:45:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-19-08.csv
+[2025-06-13 14:45:41] ✅ 8 novos registros adicionados.
+[2025-06-13 14:50:41] 🔄 Iniciando atualização...
+[2025-06-13 14:50:50] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-50-47.json
+[2025-06-13 14:50:50] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-50-50.csv
+[2025-06-13 14:50:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-24-21.json
+[2025-06-13 14:50:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-24-23.csv
+[2025-06-13 14:50:58] ✅ 9 novos registros adicionados.
+[2025-06-13 14:55:58] 🔄 Iniciando atualização...
+[2025-06-13 14:56:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-56-02.json
+[2025-06-13 14:56:05] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-56-04.csv
+[2025-06-13 14:56:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-29-37.json
+[2025-06-13 14:56:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-29-40.csv
+[2025-06-13 14:56:13] ✅ 6 novos registros adicionados.
+[2025-06-13 15:01:13] 🔄 Iniciando atualização...
+[2025-06-13 15:01:19] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-01-17.json
+[2025-06-13 15:01:20] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-01-19.csv
+[2025-06-13 15:01:20] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-34-54.json
+[2025-06-13 15:01:20] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-34-57.csv
+[2025-06-13 15:01:29] ✅ 5 novos registros adicionados.
+[2025-06-13 15:06:29] 🔄 Iniciando atualização...
+[2025-06-13 15:06:35] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-06-33.json
+[2025-06-13 15:06:36] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-06-35.csv
+[2025-06-13 15:06:36] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-40-09.json
+[2025-06-13 15:06:36] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-40-12.csv
+[2025-06-13 15:06:44] ✅ 3 novos registros adicionados.
+[2025-06-13 15:11:44] 🔄 Iniciando atualização...
+[2025-06-13 15:11:50] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-11-48.json
+[2025-06-13 15:11:51] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-11-50.csv
+[2025-06-13 15:11:51] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-45-28.json
+[2025-06-13 15:11:51] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-45-31.csv
+[2025-06-13 15:11:59] ✅ 2 novos registros adicionados.
+[2025-06-13 15:16:59] 🔄 Iniciando atualização...
+[2025-06-13 15:17:05] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-17-03.json
+[2025-06-13 15:17:06] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-17-05.csv
+[2025-06-13 15:17:06] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-50-47.json
+[2025-06-13 15:17:06] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-50-50.csv
+[2025-06-13 15:17:14] ✅ 4 novos registros adicionados.
+[2025-06-13 15:22:15] 🔄 Iniciando atualização...
+[2025-06-13 15:22:21] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-22-18.json
+[2025-06-13 15:22:21] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-22-21.csv
+[2025-06-13 15:22:21] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-56-02.json
+[2025-06-13 15:22:21] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_14-56-04.csv
+[2025-06-13 15:22:29] ✅ 10 novos registros adicionados.
+[2025-06-13 15:27:29] 🔄 Iniciando atualização...
+[2025-06-13 15:27:35] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-27-33.json
+[2025-06-13 15:27:35] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-27-35.csv
+[2025-06-13 15:27:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-01-17.json
+[2025-06-13 15:27:36] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-01-19.csv
+[2025-06-13 15:27:44] ✅ 5 novos registros adicionados.
+[2025-06-13 15:32:44] 🔄 Iniciando atualização...
+[2025-06-13 15:32:50] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-32-48.json
+[2025-06-13 15:32:51] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-32-50.csv
+[2025-06-13 15:32:51] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-06-33.json
+[2025-06-13 15:32:51] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-06-35.csv
+[2025-06-13 15:33:00] ✅ 8 novos registros adicionados.
+[2025-06-13 15:38:00] 🔄 Iniciando atualização...
+[2025-06-13 15:38:06] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-38-04.json
+[2025-06-13 15:38:07] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-38-06.csv
+[2025-06-13 15:38:07] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-11-48.json
+[2025-06-13 15:38:07] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-11-50.csv
+[2025-06-13 15:38:15] ✅ 4 novos registros adicionados.
+[2025-06-13 15:43:15] 🔄 Iniciando atualização...
+[2025-06-13 15:43:21] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-43-19.json
+[2025-06-13 15:43:22] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-43-21.csv
+[2025-06-13 15:43:22] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-17-03.json
+[2025-06-13 15:43:22] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-17-05.csv
+[2025-06-13 15:43:30] ✅ 5 novos registros adicionados.
+[2025-06-13 15:48:30] 🔄 Iniciando atualização...
+[2025-06-13 15:48:35] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-48-33.json
+[2025-06-13 15:48:36] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-48-35.csv
+[2025-06-13 15:48:36] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-22-18.json
+[2025-06-13 15:48:36] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-22-21.csv
+[2025-06-13 15:48:44] ✅ 8 novos registros adicionados.
+[2025-06-13 15:53:44] 🔄 Iniciando atualização...
+[2025-06-13 15:53:50] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-53-47.json
+[2025-06-13 15:53:50] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-53-50.csv
+[2025-06-13 15:53:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-27-33.json
+[2025-06-13 15:53:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-27-35.csv
+[2025-06-13 15:53:58] ✅ 7 novos registros adicionados.
+[2025-06-13 15:58:58] 🔄 Iniciando atualização...
+[2025-06-13 15:59:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-59-02.json
+[2025-06-13 15:59:05] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-59-04.csv
+[2025-06-13 15:59:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-32-48.json
+[2025-06-13 15:59:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-32-50.csv
+[2025-06-13 15:59:13] ✅ 5 novos registros adicionados.
+[2025-06-13 16:04:13] 🔄 Iniciando atualização...
+[2025-06-13 16:04:34] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-04-32.json
+[2025-06-13 16:04:35] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-04-34.csv
+[2025-06-13 16:04:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-38-04.json
+[2025-06-13 16:04:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-38-06.csv
+[2025-06-13 16:04:44] ✅ 6 novos registros adicionados.
+[2025-06-13 16:09:44] 🔄 Iniciando atualização...
+[2025-06-13 16:09:50] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-09-48.json
+[2025-06-13 16:09:50] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-09-50.csv
+[2025-06-13 16:09:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-43-19.json
+[2025-06-13 16:09:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-43-21.csv
+[2025-06-13 16:09:59] ✅ 4 novos registros adicionados.
+[2025-06-13 16:14:59] 🔄 Iniciando atualização...
+[2025-06-13 16:15:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-15-02.json
+[2025-06-13 16:15:05] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-15-04.csv
+[2025-06-13 16:15:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-48-33.json
+[2025-06-13 16:15:05] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-48-35.csv
+[2025-06-13 16:15:13] ✅ 5 novos registros adicionados.
+[2025-06-13 16:20:14] 🔄 Iniciando atualização...
+[2025-06-13 16:20:20] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-20-17.json
+[2025-06-13 16:20:20] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-20-20.csv
+[2025-06-13 16:20:20] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-53-47.json
+[2025-06-13 16:20:20] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-53-50.csv
+[2025-06-13 16:20:29] ✅ 5 novos registros adicionados.
+[2025-06-13 16:25:29] 🔄 Iniciando atualização...
+[2025-06-13 16:25:35] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-25-32.json
+[2025-06-13 16:25:35] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-25-35.csv
+[2025-06-13 16:25:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-59-02.json
+[2025-06-13 16:25:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_15-59-04.csv
+[2025-06-13 16:25:43] ✅ 9 novos registros adicionados.
+[2025-06-13 16:30:43] 🔄 Iniciando atualização...
+[2025-06-13 16:30:49] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-30-47.json
+[2025-06-13 16:30:50] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-30-49.csv
+[2025-06-13 16:30:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-04-32.json
+[2025-06-13 16:30:50] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-04-34.csv
+[2025-06-13 16:30:58] ✅ 5 novos registros adicionados.
+[2025-06-13 16:35:58] 🔄 Iniciando atualização...
+[2025-06-13 16:36:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-36-01.json
+[2025-06-13 16:36:04] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-36-04.csv
+[2025-06-13 16:36:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-09-48.json
+[2025-06-13 16:36:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-09-50.csv
+[2025-06-13 16:36:12] ✅ 2 novos registros adicionados.
+[2025-06-13 16:41:12] 🔄 Iniciando atualização...
+[2025-06-13 16:41:18] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-41-15.json
+[2025-06-13 16:41:18] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-41-18.csv
+[2025-06-13 16:41:18] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-15-02.json
+[2025-06-13 16:41:18] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-15-04.csv
+[2025-06-13 16:41:27] ✅ 7 novos registros adicionados.
+[2025-06-13 16:46:27] 🔄 Iniciando atualização...
+[2025-06-13 16:46:33] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-46-31.json
+[2025-06-13 16:46:33] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-46-33.csv
+[2025-06-13 16:46:33] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-20-17.json
+[2025-06-13 16:46:33] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-20-20.csv
+[2025-06-13 16:46:41] ✅ 11 novos registros adicionados.
+[2025-06-13 16:51:41] 🔄 Iniciando atualização...
+[2025-06-13 16:51:58] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-51-56.json
+[2025-06-13 16:51:59] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-51-58.csv
+[2025-06-13 16:51:59] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-25-32.json
+[2025-06-13 16:51:59] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-25-35.csv
+[2025-06-13 16:52:07] ✅ 5 novos registros adicionados.
+[2025-06-13 16:57:07] 🔄 Iniciando atualização...
+[2025-06-13 16:57:13] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-57-10.json
+[2025-06-13 16:57:13] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-57-13.csv
+[2025-06-13 16:57:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-30-47.json
+[2025-06-13 16:57:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-30-49.csv
+[2025-06-13 16:57:22] ✅ 3 novos registros adicionados.
+[2025-06-13 17:02:22] 🔄 Iniciando atualização...
+[2025-06-13 17:02:28] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-02-25.json
+[2025-06-13 17:02:28] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-02-28.csv
+[2025-06-13 17:02:28] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-36-01.json
+[2025-06-13 17:02:28] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-36-04.csv
+[2025-06-13 17:02:37] ✅ 5 novos registros adicionados.
+[2025-06-13 17:07:37] 🔄 Iniciando atualização...
+[2025-06-13 17:07:43] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-07-40.json
+[2025-06-13 17:07:43] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-07-43.csv
+[2025-06-13 17:07:43] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-41-15.json
+[2025-06-13 17:07:43] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-41-18.csv
+[2025-06-13 17:07:51] ✅ 5 novos registros adicionados.
+[2025-06-13 17:12:51] 🔄 Iniciando atualização...
+[2025-06-13 17:12:58] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-12-55.json
+[2025-06-13 17:12:58] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-12-58.csv
+[2025-06-13 17:12:58] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-46-31.json
+[2025-06-13 17:12:58] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-46-33.csv
+[2025-06-13 17:13:07] ✅ 4 novos registros adicionados.
+[2025-06-13 17:18:07] 🔄 Iniciando atualização...
+[2025-06-13 17:18:13] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-18-10.json
+[2025-06-13 17:18:13] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-18-13.csv
+[2025-06-13 17:18:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-51-56.json
+[2025-06-13 17:18:13] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-51-58.csv
+[2025-06-13 17:18:21] ✅ 9 novos registros adicionados.
+[2025-06-13 17:23:21] 🔄 Iniciando atualização...
+[2025-06-13 17:23:27] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-23-25.json
+[2025-06-13 17:23:28] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-23-27.csv
+[2025-06-13 17:23:28] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-57-10.json
+[2025-06-13 17:23:28] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_16-57-13.csv
+[2025-06-13 17:23:42] ✅ 8 novos registros adicionados.
+[2025-06-13 17:28:42] 🔄 Iniciando atualização...
+[2025-06-13 17:28:48] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-28-46.json
+[2025-06-13 17:28:49] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-28-49.csv
+[2025-06-13 17:28:49] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-02-25.json
+[2025-06-13 17:28:49] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-02-28.csv
+[2025-06-13 17:28:58] ✅ 7 novos registros adicionados.
+[2025-06-13 17:33:58] 🔄 Iniciando atualização...
+[2025-06-13 17:34:04] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-34-01.json
+[2025-06-13 17:34:04] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-34-04.csv
+[2025-06-13 17:34:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-07-40.json
+[2025-06-13 17:34:04] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-07-43.csv
+[2025-06-13 17:34:13] ✅ 4 novos registros adicionados.
+[2025-06-13 17:39:13] 🔄 Iniciando atualização...
+[2025-06-13 17:39:19] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-39-16.json
+[2025-06-13 17:39:19] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-39-19.csv
+[2025-06-13 17:39:19] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-12-55.json
+[2025-06-13 17:39:19] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-12-58.csv
+[2025-06-13 17:39:28] ✅ 10 novos registros adicionados.
+[2025-06-13 17:44:28] 🔄 Iniciando atualização...
+[2025-06-13 17:44:34] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-44-32.json
+[2025-06-13 17:44:34] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-44-34.csv
+[2025-06-13 17:44:34] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-18-10.json
+[2025-06-13 17:44:34] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-18-13.csv
+[2025-06-13 17:44:42] ✅ 9 novos registros adicionados.
+[2025-06-13 17:49:42] 🔄 Iniciando atualização...
+[2025-06-13 17:49:48] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-49-46.json
+[2025-06-13 17:49:49] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-49-48.csv
+[2025-06-13 17:49:49] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-23-25.json
+[2025-06-13 17:49:49] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-23-27.csv
+[2025-06-13 17:49:57] ✅ 4 novos registros adicionados.
+[2025-06-13 17:54:57] 🔄 Iniciando atualização...
+[2025-06-13 17:55:03] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-55-00.json
+[2025-06-13 17:55:03] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-55-03.csv
+[2025-06-13 17:55:03] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-28-46.json
+[2025-06-13 17:55:03] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-28-49.csv
+[2025-06-13 17:55:12] ✅ 7 novos registros adicionados.
+[2025-06-13 18:00:12] 🔄 Iniciando atualização...
+[2025-06-13 18:00:18] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_18-00-16.json
+[2025-06-13 18:00:19] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_18-00-18.csv
+[2025-06-13 18:00:19] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-34-01.json
+[2025-06-13 18:00:19] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-34-04.csv
+[2025-06-13 18:00:28] ✅ 6 novos registros adicionados.
+[2025-06-16 10:34:38] 🔄 Iniciando atualização...
+[2025-06-16 10:34:45] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-34-42.json
+[2025-06-16 10:34:46] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-34-45.csv
+[2025-06-16 10:34:46] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-39-16.json
+[2025-06-16 10:34:46] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-39-19.csv
+[2025-06-16 10:35:00] ✅ 1486 novos registros adicionados.
+[2025-06-16 10:37:09] 🔄 Iniciando atualização completa (modo espelho)...
+[2025-06-16 10:37:16] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-37-13.json
+[2025-06-16 10:37:16] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-37-16.csv
+[2025-06-16 10:37:16] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-44-32.json
+[2025-06-16 10:37:16] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-44-34.csv
+[2025-06-16 10:37:38] ✅ Planilha atualizada com 15967 registros no modo espelho.
+[2025-06-16 10:38:23] 🔄 Iniciando atualização completa (modo espelho)...
+[2025-06-16 10:38:31] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-38-28.json
+[2025-06-16 10:38:31] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-38-31.csv
+[2025-06-16 10:38:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-49-46.json
+[2025-06-16 10:38:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-49-48.csv
+[2025-06-16 10:38:52] ✅ Planilha atualizada com 15967 registros no modo espelho.
+[2025-06-16 10:43:53] 🔄 Iniciando atualização completa (modo espelho)...
+[2025-06-16 10:44:03] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-44-00.json
+[2025-06-16 10:44:03] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-44-03.csv
+[2025-06-16 10:44:03] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-55-00.json
+[2025-06-16 10:44:03] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_17-55-03.csv
+[2025-06-16 10:44:29] ✅ Planilha atualizada com 15976 registros no modo espelho.
+[2025-06-16 10:47:24] 🔄 Iniciando atualização completa (modo espelho)...
+[2025-06-16 10:47:30] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-47-27.json
+[2025-06-16 10:47:31] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-47-30.csv
+[2025-06-16 10:47:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_18-00-16.json
+[2025-06-16 10:47:31] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-13_18-00-18.csv
+[2025-06-16 10:47:58] ✅ Planilha atualizada no modo espelho: 15981 registros totais, 7 registros realmente novos.
+[2025-06-16 10:50:14] 🔄 Iniciando atualização completa (modo espelho)...
+[2025-06-16 10:50:21] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-50-18.json
+[2025-06-16 10:50:22] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-50-21.csv
+[2025-06-16 10:50:22] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-34-42.json
+[2025-06-16 10:50:22] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-34-45.csv
+[2025-06-16 10:50:48] ✅ Planilha atualizada no modo espelho: 15985 registros totais, 6 registros realmente novos.
+[2025-06-16 10:53:42] 🔄 Iniciando atualização completa (modo espelho - aba mensal)...
+[2025-06-16 10:53:49] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-53-46.json
+[2025-06-16 10:53:49] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-53-49.csv
+[2025-06-16 10:53:49] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-37-13.json
+[2025-06-16 10:53:49] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-37-16.csv
+[2025-06-16 10:53:53] 🗂️ Nova aba criada: Página1_2025_06
+[2025-06-16 10:54:12] ✅ Aba [Página1_2025_06] atualizada: 15988 registros totais | 15988 novos.
+[2025-06-16 10:59:28] 🔄 Iniciando atualização com separação por created_at...
+[2025-06-16 10:59:35] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-59-32.json
+[2025-06-16 10:59:35] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-59-35.csv
+[2025-06-16 10:59:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-38-28.json
+[2025-06-16 10:59:35] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-38-31.csv
+[2025-06-16 10:59:39] 🗂️ Nova aba criada: Página1_2025_05
+[2025-06-16 10:59:49] ✅ Aba [Página1_2025_05] atualizada: 5836 registros totais | 5836 novos.
+[2025-06-16 11:00:11] ✅ Aba [Página1_2025_06] atualizada: 10156 registros totais | 6 novos.
+[2025-06-16 11:05:11] 🔄 Iniciando atualização com separação por created_at...
+[2025-06-16 11:05:17] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-05-14.json
+[2025-06-16 11:05:17] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-05-17.csv
+[2025-06-16 11:05:17] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-44-00.json
+[2025-06-16 11:05:17] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-44-03.csv
+[2025-06-16 11:05:29] ✅ Aba [Página1_2025_05] atualizada: 5836 registros totais | 0 novos.
+[2025-06-16 11:05:44] ✅ Aba [Página1_2025_06] atualizada: 10162 registros totais | 8 novos.
+[2025-06-16 11:10:44] 🔄 Iniciando atualização com separação por created_at...
+[2025-06-16 11:10:51] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-10-48.json
+[2025-06-16 11:10:52] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-10-51.csv
+[2025-06-16 11:10:52] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-47-27.json
+[2025-06-16 11:10:52] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-47-30.csv
+[2025-06-16 11:11:07] ✅ Aba [Página1_2025_05] atualizada: 5836 registros totais | 0 novos.
+[2025-06-16 11:11:22] ✅ Aba [Página1_2025_06] atualizada: 10164 registros totais | 4 novos.
+[2025-06-16 11:16:22] 🔄 Iniciando atualização com separação por created_at...
+[2025-06-16 11:16:30] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-16-26.json
+[2025-06-16 11:16:30] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-16-30.csv
+[2025-06-16 11:16:30] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-50-18.json
+[2025-06-16 11:16:30] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-50-21.csv
+[2025-06-16 11:16:45] ✅ Aba [Página1_2025_05] atualizada: 5836 registros totais | 0 novos.
+[2025-06-16 11:17:03] ✅ Aba [Página1_2025_06] atualizada: 10170 registros totais | 8 novos.
+[2025-06-16 11:22:03] 🔄 Iniciando atualização com separação por created_at...
+[2025-06-16 11:22:10] 🗃️ Backup JSON salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-22-07.json
+[2025-06-16 11:22:11] 📁 Backup CSV salvo em backups/backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_11-22-10.csv
+[2025-06-16 11:22:11] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-53-46.json
+[2025-06-16 11:22:11] 🧹 Backup antigo removido: backups\backup_workspace-64a56365aaedd19fa72d2787-ead_2025-06-16_10-53-49.csv
+[2025-06-16 11:22:26] ✅ Aba [Página1_2025_05] atualizada: 5836 registros totais | 0 novos.
+[2025-06-16 11:22:43] ✅ Aba [Página1_2025_06] atualizada: 10174 registros totais | 6 novos.
